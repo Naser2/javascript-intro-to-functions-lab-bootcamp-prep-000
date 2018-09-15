@@ -1,6 +1,5 @@
 const shout = (string) => {
   return string.toUpperCase();
-  // console.log(string.toUpperCase())
 }
 // shout();
 
