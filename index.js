@@ -4,17 +4,17 @@ const shout = (string) => {
 }
 // shout();
 
-whisper = (string) => {
+function whisper(string) => {
   return string.toLowerCase()
   // console.log(string.toLowerCase())
 }
 
 // mixedCase return half toLowerCase & half to toUpperCase
-const logShout = (string) => {
+function logShout(string) {
   console.log(string.toUpperCase())
 }
 
-const logWhisper = (string) => {
-  return string.toUpperCase();
+function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+
