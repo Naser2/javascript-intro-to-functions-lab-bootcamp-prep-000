@@ -4,7 +4,7 @@ const shout = (string) => {
 }
 // shout();
 
-function whisper(string) => {
+  whisper(string) => {
   return string.toLowerCase()
   // console.log(string.toLowerCase())
 }
