@@ -10,6 +10,7 @@ const shout = (string) => {
 
 // mixedCase return half toLowerCase & half to toUpperCase
 function logShout(string) {
+    // return string.toLowerCase()
   console.log(string.toUpperCase())
 }
 
