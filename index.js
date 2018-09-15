@@ -13,3 +13,8 @@ whisper = (string) => {
 const logShout = (string) => {
   console.log(string.toUpperCase())
 }
+
+const logWhisper = (string) => {
+  return string.toUpperCase();
+  console.log(string.toUpperCase())
+}
