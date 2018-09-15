@@ -1,5 +1,6 @@
 const shout = (string) => {
   return string.toUpperCase();
+  console.log(string.toUpperCase())
 }
 // shout();
 
@@ -8,3 +9,4 @@ whisper = (string) => {
 }
 
 // mixedCase return half toLowerCase & half to toUpperCase
+
