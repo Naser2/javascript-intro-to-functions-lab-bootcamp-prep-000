@@ -3,6 +3,6 @@ const shout = (string) => {
 }
 // shout();
 
-whisper(string) => {
+whisper(string), ()=> {
   return string.toLowerCase();
 }
