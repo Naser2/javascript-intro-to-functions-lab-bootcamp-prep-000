@@ -6,3 +6,5 @@ const shout = (string) => {
 whisper = (string) => {
   return string.toLowerCase();
 }
+
+// mixedCase return half toLowerCase & half to toUpperCase
